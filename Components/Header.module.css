@@ -1,0 +1,41 @@
+.Quote {
+  font-family: 'Pacifico', cursive; 
+  font-size: 14px;
+  opacity: 0.8;
+}
+
+.inputContainer {
+  display: flex;
+  gap: 8px; 
+  border: 2px solid lightblue;
+  border-radius: 15px;
+  padding: 5px;
+  width: 480px;
+  margin: 0 auto 20px auto;
+  background-color: transparent;
+}
+
+.Input {
+  flex: 1;
+  background-color: #4179bb;
+  padding: 8px 12px;
+  border-radius: 8px;
+  margin-right: 4px;
+  border: 1px solid #ccc;
+}
+input::placeholder{
+    color: white;
+}
+
+.addBtn {
+  padding: 8px 16px;
+  border-radius: 8px;
+  border: none;
+  background-color: #0084ff; 
+  color: white;
+  cursor: pointer;
+  box-shadow:0px 4px 10px rgba(0,0,255,0.4); 
+}
+.H{
+    font-family:'Nunito', cursive;
+}

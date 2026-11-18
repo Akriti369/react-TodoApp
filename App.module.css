@@ -1,0 +1,7 @@
+.TodoContainer{
+     background: linear-gradient(145deg, #1357a7, #1881d5);
+  border-radius: 20px;
+  width: 650px;
+  margin: 50px auto;
+  padding: 20px 15px;
+}
